@@ -179,3 +179,5 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  FX22 Intelligence Terminal v4.0 © 2025
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+##Caution : This is not the final product , minute edits are required for it to work properly ; And Anthropic or api keys are required for several features to work properly .
