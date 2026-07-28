@@ -141,12 +141,6 @@
    - Alert manager with full CRUD
 
 
-##SCREENSHOTS :
-<img width="1440" height="900" alt="Screenshot 2026-07-28 at 4 10 39 PM" src="https://github.com/user-attachments/assets/5c63f48e-b4b1-4adb-9a98-fa2759b4ba47" />
-
-<img width="1440" height="900" alt="Screenshot 2026-07-28 at 4 10 57 PM" src="https://github.com/user-attachments/assets/ec795c5d-22ef-4b8f-ac94-dfe0b8b42ed6" />
-
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  FILES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
