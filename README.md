@@ -175,7 +175,7 @@ A: Run: `PORT=3001 npm start` then open localhost:3001
 
 ---
 
-FX22 Intelligence Terminal v4.0 © 2025
+FX22 Intelligence Terminal v4.0 © 2026
 
 
 ###CAUTION : This is not the final product ; Few minor edits are required for full functionality and API and ANTHROPIC keys are required for every service to work and for the AI ANALYST to work properly .
